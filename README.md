@@ -63,7 +63,7 @@ I enjoy working close to infrastructure, improving reliability, and making syste
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skferoze&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=skferoze&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skferoze&theme=tokyonight" height="165"/>
 </p>
 
