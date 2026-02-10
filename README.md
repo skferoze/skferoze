@@ -1,3 +1,21 @@
+<h1 align="center">Hi 👋, I'm Feroz</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=24&
+  pause=1000&
+  color=38B2AC&
+  center=true&
+  vCenter=true&
+  width=600&
+  lines=DevOps+Engineer+in+the+Making;
+  Cloud+%26+Automation+Enthusiast;
+  Docker+%7C+Kubernetes+%7C+AWS;
+  2026+Graduate+%7C+Always+Shipping" />
+</p>
+
+
 # Hi 👋, I'm Feroz  
 ### Software Engineer | DevOps & Cloud Engineer
 
