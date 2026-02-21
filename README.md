@@ -23,25 +23,25 @@
 
 ---
 
-### 🚀 Software Engineer | DevOps & Cloud Engineer
+###  Software Engineer | DevOps & Cloud Engineer
 
-### 👨‍💻 About Me
+###  About Me
 I am a **2026 graduate** passionate about building **scalable systems**, **automating deployments**, and solving real-world problems using **DevOps and cloud technologies**.  
 I enjoy working close to infrastructure, improving reliability, and making systems faster and more efficient.
 
 ---
 
 ### 🔧 What I Do
-- 🚀 Design and implement **CI/CD pipelines**
-- 🐳 Containerize applications using **Docker**
-- ☸️ Manage and deploy workloads with **Kubernetes**
-- ☁️ Work with **AWS cloud services**
-- 🐧 Automate workflows using **Linux & shell scripting**
-- 🔁 Maintain clean version control with **Git & GitHub**
+-  Design and implement **CI/CD pipelines**
+-  Containerize applications using **Docker**
+-  Manage and deploy workloads with **Kubernetes**
+-  Work with **AWS cloud services**
+-  Automate workflows using **Linux & shell scripting**
+-  Maintain clean version control with **Git & GitHub**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 - **Programming:** Java (Core), Bash  
 - **Web Basics:** HTML, CSS, JavaScript  
 - **Database:** MySQL  
@@ -51,13 +51,13 @@ I enjoy working close to infrastructure, improving reliability, and making syste
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 - **CI/CD Pipeline using Jenkins** – Automated build, test & deployment workflows  
 - **Dockerized Java Application** – Containerized applications with optimized images  
 - **Kubernetes Deployment** – Deployed and managed services using Kubernetes YAML  
 - **College Fest Website** – Designed and hosted a responsive event website  
 
-👉 Check my repositories for full documentation and implementation details.
+-> Check my repositories for full documentation and implementation details.
 
 ---
 
@@ -69,18 +69,18 @@ I enjoy working close to infrastructure, improving reliability, and making syste
 
 ---
 
-### 🎯 Current Focus
+###  Current Focus
 - Advanced Kubernetes concepts  
 - Cloud security & monitoring  
 - Building production-ready DevOps workflows  
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 - GitHub: https://github.com/skferoze  
 - LinkedIn: www.linkedin.com/in/sk-feroze-943134335
 - Email: sf73399@gmail.com  
 
 ---
 
-⭐ *Always learning. Always building. Always shipping.*
+ *Always learning. Always building. Always shipping.*
